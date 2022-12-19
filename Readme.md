@@ -10,4 +10,3 @@ Please see main.c for details.
 
 It may contain bugs, and just for study use only. (Well, I just don't have time to maintenance it :-P)
 
-* Modified username
